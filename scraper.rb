@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # this is for "Irish Legislation" to understand and improve it orignal copy here http://scraperwiki.com/scrapers/irish-legislation/edit/
 # http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=59&m=b
 require 'nokogiri'
